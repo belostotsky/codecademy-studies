@@ -1,2 +1,2 @@
-# the-game
-The simple game from the Codecademy JS lesson
+# My Codecademy Studies
+I am learning how to code.
