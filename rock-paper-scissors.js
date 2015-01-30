@@ -6,7 +6,9 @@ if (computerChoice < 0.34) {
 	computerChoice = "paper";
 } else {
 	computerChoice = "scissors";
-} console.log("Computer: " + computerChoice);
+} 
+console.log("Computer: " + computerChoice);
+console.log("You: " + userChoice);
 
 var compare = function(choice1, choice2) {
     if (choice1 === choice2) {
